@@ -43,18 +43,19 @@ in Marketing, CRM and Customer Analytics.
 
 <hr/>
 
-<!-- ===== GITHUB ACTIVITY ===== -->
+<!-- ===== GITHUB ACTIVITY (auto-generated daily by GitHub Actions) ===== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harley130613&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&area_color=5b2150&hide_border=true&title_color=ff79c6" width="92%"/>
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="92%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harley130613&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6" height="165"/>
+  <img src="./profile-summary-card-output/radical/3-stats.svg" height="165"/>
   <img src="https://streak-stats.demolab.com?user=harley130613&theme=radical&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harley130613&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&langs_count=6" height="150"/>
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" height="165"/>
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="165"/>
 </p>
 
 <hr/>
