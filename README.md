@@ -17,7 +17,7 @@
 $ cat about_me.txt
 ```
 
-I'm **Cam Loan (Harley)** — a Data Analyst at an **app-based driver service platform** in Vietnam.
+I'm **Cẩm Loan (Harley)** - a Data Analyst at an **app-based driver service platform** in Vietnam.
 I dig into **500K+ trips and 400K+ users** to find where customers drop off, why they don't come back,
 and which campaigns actually pay off. I build dashboards, design CRM & voucher programs,
 and automate reporting so the team can move faster. Currently **open to Data Analyst roles**
