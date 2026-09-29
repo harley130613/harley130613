@@ -10,8 +10,8 @@
 
 <hr/>
 
-<!-- ===== WHOAMI ===== -->
-<h2>🖥️ whoami</h2>
+<!-- ===== ABOUT ME ===== -->
+<h2>🖥️ about me</h2>
 
 ```bash
 $ cat about_me.txt
