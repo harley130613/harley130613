@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b2150,100:ff79c6&height=130&section=header" width="100%"/>
 
-<h1 align="center">Tran Thi Cam Loan</h1>
+<h1 align="center">Trần Thị Cẩm Loan</h1>
 <p align="center"><sub>Data Analyst &nbsp;·&nbsp; Marketing, CRM &amp; Customer Analytics</sub></p>
 
 <p align="center">
